@@ -12,5 +12,23 @@
 }
 
 .font-weight {
-  font-weight: 500;
+  font-weight: 500 !important;
+}
+
+.padding-left{
+  padding-left: 26px !important;
+}
+
+.padding-right{
+  padding-right: 26px !important;
+}
+
+.font-weight-2{
+  font-weight: 400 !important;
+}
+
+.tag {
+  /* padding: 10px; */
+  border-radius: 20px;
+  /* background-color: grey; */
 }
