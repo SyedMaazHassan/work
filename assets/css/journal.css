@@ -1,0 +1,40 @@
+.bg-none {
+  background-color: white !important;
+  border-left: 0px !important;
+}
+
+.border-radius {
+  border-radius: 13px;
+}
+
+.fw-bold {
+  font-weight: 500 !important;
+}
+
+.font-weight {
+  font-weight: 500 !important;
+}
+
+.padding-left {
+  padding-left: 26px !important;
+}
+
+.padding-right {
+  padding-right: 26px;
+}
+
+.font-weight-2 {
+  font-weight: 400 !important;
+}
+
+.tag {
+  /* padding: 10px; */
+  border-radius: 20px;
+  /* background-color: grey; */
+}
+
+.color-weight {
+  color: rgb(17, 17, 17);
+  font-weight: 400;
+  font-size: 14px;
+}

@@ -1,0 +1,45 @@
+body {
+  background-color: rgba(241, 237, 237, 0.103);
+}
+
+.active-1 {
+  border-bottom: 3px solid grey;
+  color: black;
+  font-weight: 500;
+}
+
+.right-icon {
+  border: 1px solid grey;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+}
+/* 
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+} */
+
+.profile-link {
+  text-decoration: none;
+}
+
+#notification {
+  width: 320px !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+@media screen and (max-width: 993px) {
+  #right-card {
+    display: none !important;
+  }
+  #main-card {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}

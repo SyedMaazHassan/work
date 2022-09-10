@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(202, 202, 202, 0.103);
+}
+#register-form {
+}
+
+.register-form {
+  height: 100vh;
+  padding: 110px 0px;
+  /* background-color: red; */
+}
+
+/* .buttons {
+  position: relative;
+  top: 11px !important;
+  right: -316px;
+  width: 143px;
+} */
+
+.goog {
+  border: 1px solid grey;
+}
