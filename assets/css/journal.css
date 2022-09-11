@@ -7,6 +7,10 @@
   cursor: pointer;
 }
 
+.icon-size{
+  font-size: 50px !important;
+}
+
 .border-radius {
   border-radius: 13px;
 }
@@ -41,4 +45,20 @@
   color: rgb(17, 17, 17);
   font-weight: 400;
   font-size: 14px;
+}
+
+
+#notification-count{
+  /* border: 1px solid grey; */
+  background-color: rgba(243, 61, 61, 0.555) !important;
+  color: white;
+  font-weight: bold;
+  height: 19px;
+  width: 19px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  margin-bottom: 16px;
 }
