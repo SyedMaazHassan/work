@@ -3,6 +3,10 @@
   border-left: 0px !important;
 }
 
+.cr-pointer{
+  cursor: pointer;
+}
+
 .border-radius {
   border-radius: 13px;
 }
